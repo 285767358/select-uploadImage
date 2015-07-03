@@ -10,6 +10,7 @@ public class ImgSelectDialog{
 	public final static int PIC_FROM_CAMERA = 0;
 	public final static int PIC_FROM_LOCALPHOTO = 1;
 	public final static int CANCEL = 2;
+	public final static int PIC_CUT = 3;
 	
 	private Context mContext;
 	private DialogInterface.OnClickListener mOnClickListener;
